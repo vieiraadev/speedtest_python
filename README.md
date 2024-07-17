@@ -1,6 +1,6 @@
-Aplicativo de Speedtest com Tkinter e speedtest-cli<br>
+Speedtest com Tkinter e speedtest-cli<br>
 
-Este é um simples aplicativo de speedtest desenvolvido em Python utilizando Tkinter para a interface gráfica e speedtest-cli para realizar as medições de velocidade de internet.
+Este é um simples projeto de  speedtest desenvolvido em Python utilizando Tkinter para a interface gráfica e speedtest-cli para realizar as medições de velocidade de internet.
 <br>
 Pré-requisitos
 <br>
