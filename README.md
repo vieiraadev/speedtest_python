@@ -38,3 +38,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests o
 Autor<br>
 
 Desenvolvido por Vitor Vieira Machado<br>
+
+
+![image](https://github.com/user-attachments/assets/fc8f5ef3-370f-4305-bc83-e1437759ed7e)
